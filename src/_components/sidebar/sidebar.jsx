@@ -10,7 +10,7 @@ import './sidebar.scss';
 import react from 'react'
 const sidebarNavItems = [
     {
-        display: 'Dashboard',
+        display: 'Dashbooard',
         icon: <FaHome />,
         to: '/',
         section: ''
