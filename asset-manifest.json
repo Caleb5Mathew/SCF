@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lazeal-Frontend/static/css/main.8be1b2ed.css",
+    "main.js": "/Lazeal-Frontend/static/js/main.0221e505.js",
+    "index.html": "/Lazeal-Frontend/index.html",
+    "main.8be1b2ed.css.map": "/Lazeal-Frontend/static/css/main.8be1b2ed.css.map",
+    "main.0221e505.js.map": "/Lazeal-Frontend/static/js/main.0221e505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be1b2ed.css",
+    "static/js/main.0221e505.js"
+  ]
+}
