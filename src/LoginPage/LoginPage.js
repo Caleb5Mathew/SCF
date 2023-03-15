@@ -58,10 +58,10 @@ class LoginPage extends React.Component {
             <div>
                 <Sidebar/>
              </div>
-             <div className='play1'>
+             {/* <div className='play1'>
              <BsPersonCircle style={{ float:"right",  margin:"10%"}} className='resident'/>
              <IoPeopleCircleOutline style={{ float:"right",  margin:"10%"}}  className='resident'/>
-             </div>
+             </div> */}
              <div className='imageback'>
              </div>
 

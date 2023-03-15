@@ -82,10 +82,10 @@ const Sidebar = () => {
                     <FaIcons.FaBars onClick={showSidebar} />
                 </Link>
             </div>
-            <div className='textreg'>
+            {/* <div className='textreg'>
             Have Questions?
             contact us at scfoundation05@gmail.com
-            </div>
+            </div> */}
             <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
                 
                 <ul className='nav-menu-items' onClick={showSidebar}>
